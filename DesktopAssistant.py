@@ -538,8 +538,8 @@ if __name__=="__main__":
             # web.open(r"D:\Drive")
             web.open(r"/home/rahulrawatr320/Desktop/Rahul_Drive")
 
-        # else:
-        #     pass
+        else:
+            speak("Command does not exit. Try again.")
         
 
 
